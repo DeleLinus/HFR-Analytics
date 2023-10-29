@@ -36,7 +36,7 @@ This design has been made using  https://www.app.diagrams.net/ .
 
 
 * The data source as provided remains the [HFR website](https://bit.ly/3lVu5C6) 
-* The Data Extraction shall be carried out by utilizing the **Selenium Python web automation framework** (This part is yet automated). 
+* The Data Extraction shall be carried out by utilizing the **Selenium Python web automation framework**  
 * Data staging on **Google Cloud Storage (GCS)**
 * Data Transformation using DataProc- **PySpark** 
 * The workflow management or orchestration tool of choice for the Scheduling and Automation is the **Cloud Composer**
